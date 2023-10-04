@@ -1,0 +1,12 @@
+TODO
+irc
+*.o
+*/*.o
+irc_server.cpp
+.vscode
+.vscode/*
+log.log
+test
+*.sh
+.idea/*/*
+.idea
