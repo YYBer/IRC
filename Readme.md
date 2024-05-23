@@ -1,3 +1,5 @@
+work with https://github.com/wildfrenzy :)
+
 <div align="center">
 
 # FT_IRC
